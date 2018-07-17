@@ -1,0 +1,54 @@
+~ Zusammenfassung aller Error-Codes (Erleichterte Uebersicht) ~
+
+# LEGENDE #
+Code 1000: Fehlerhafte Variablenbestimmung
+Code 2000: Schleifen unerwartet uebersprungen
+Code 3000: Befehl uebersprungen
+Code 4040: Pfad fehlerhaft, Datei fehlt
+Code 5000: Schleifen-Werte unpassend
+Code 8000: Sprungmarke unerwartet uebersprungen
+Code 8500: Call-Befehl oder Sprungmarke uebersprungen
+Code 9000: Berechtigungs Fehler
+
+
+* Smart Speed.bat *
+ERROR 9999: Sie haben keine Berechtigung fuer diese Anwendung! / Zeile 7 - 17.06.2014
+ERROR 4041: Fehlende Programmdatei. - Weihnachten.bat fehlt / Zeile 31 - 17.06.2014
+ERROR 4042: Fehlende Programmdatei. - Silvester.bat fehlt / Zeile 32 - 17.06.2014
+ERROR 4043: Fehlende Programmdatei. - Geburtstag.bat fehlt / Zeile 33 - 17.06.2014
+ERROR 4044: Fehlende Programmdatei. - Halloween.bat fehlt / Zeile 34 - 17.06.2014
+ERROR 4045: Fehlende Programmdatei. - Notiz-Liste.bat fehlt / Zeile 35 - 17.06.2014
+ERROR 4046: Fehlende Programmdatei. - HUE-Liste.bat fehlt / Zeile 36 - 17.06.2014
+ERROR 4047: Fehlende Programmdatei. - Dokument.bat fehlt / Zeile 37 - 17.06.2014
+ERROR 4048: Fehlende Programmdatei. - ExaktLogger.bat fehlt / Zeile 38 - 17.06.2014
+
+* Smart Speed - Pro.bat *
+ERROR 4040_1: Option existiert nicht! / Zeile 47 - 17.06.2014
+ERROR 4041: 1_Not-Stopper.bat nicht gefunden. / Zeile 51 - 17.06.2014
+ERROR 4042: 2_Stundenplan.bat nicht gefunden. / Zeile 58 - 17.06.2014
+ERROR 4043: 3_Countdown.bat nicht gefunden. / Zeile 76 - 17.06.2014
+ERROR 4044: 3_Countdown_BD.bat nicht gefunden. / Zeile 77 - 17.06.2014
+ERROR 8501: Call-Befehl und/oder Error404-Sprungmarke uebersprungen / Zeile 91 - 17.06.2014
+ERROR 4045: 5_Hacken.bat nicht gefunden / Zeile 95 - 17.06.2014
+ERROR 4046: Kalender-Assist.bat nicht gefunden / Zeile 101 - 17.06.2014
+ERROR 4040_2: Option existiert nicht! / Zeile 127 - 17.06.2014
+ERROR 1001: Fehlerhafte Variablenbestimmung. / Zeile 138 - 17.06.2014
+ERROR 2001: Schleifenvorgang unerwartet uebersprungen! / Zeile 144 - 17.06.2014
+ERROR 9001: Dieser Befehl wurde aus Datenschutzgruenden gesperrt. / Zeile 156 - 17.06.2014
+ERROR 8001: Sprungmarke "remycmd" uebersprungen! / Zeile 159 - 17.06.2014
+ERROR 3001: Exit-Befehl uebersprungen / Zeile 167 - 17.06.2014
+
+* ExaktLogger.bat *
+ERROR 9998: Betroffene Datei ist eine Systemdatei. / Zeile 17 - 17.06.2014
+
+* 3_Countdown.bat *
+ERROR 8001: Sprungmarke bei Fachbestimmung uebersprungen. / Zeile 73 - 17.06.2014
+ERROR 8002: Sprungmarke bei Fachbestimmung uebersprungen. / Zeile 100 - 17.06.2014
+ERROR 8003: Sprungmarke bei Fachbestimmung uebersprungen. / Zeile 127 - 17.06.2014
+ERROR 8004: Sprungmarke bei Fachbestimmung uebersprungen. / Zeile 158 - 17.06.2014
+ERROR 8005: Sprungmarke bei Fachbestimmung uebersprungen. / Zeile 192 - 17.06.2014
+ERROR 8006: Sprungmarke bei Wochentagsbestimmung uebersprungen. / Zeile 194 - 17.06.2014
+ERROR 1001: Variablen abgelaufen. / Zeilen 218-221 - 17.06.2014
+ERROR 5001: Die Restlaufzeit betraegt weniger als 0. / Zeile 245 - 18.06.2014
+ERROR 8007: Sprungmarke 'calculate' uebersprungen. / Zeile 296 - 18.06.2014
+

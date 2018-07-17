@@ -1,0 +1,2 @@
+1. SNDREC32.exe nach C:\windows\system32\
+2. CLEAR.bat eine Verknüpfung erstellen und Häckchen bei "als Admin ausführen" setzen. 

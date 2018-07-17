@@ -1,0 +1,5 @@
+eigene Datei mit Zusatzinformationen wie Stoff, welcher Wochentag, etc. mit Countdown undso
+und nach ablaufen des eintrages abgesehen von geb (ausnahme) den eintrag mit *e markieren (zum wiederherstellen)
+und nach 48 Stunden nach ablauf des RememberDatums endgültig löschen. 
+
+--> Alle einträge per set bestimmen und dann gleich per echo in eintrag selbst schreiben. --> so kann mit %var:~0,5% zb das datum herausgehoben werden. 

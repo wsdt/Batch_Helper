@@ -1,0 +1,5 @@
+Anleitung - Read Me 
+Dateipfad: "C:\users\Kevin\desktop\Smart Speed\" 
+1. Oben angefuehrten Pfad in die Datei "Smart Speed.bat" in die 4. Zeile hier einfuegen: 
+   cd "PFAD" 
+2. Speichern und schliessen! 
