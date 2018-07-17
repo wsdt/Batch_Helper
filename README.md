@@ -17,3 +17,6 @@ As I wrote this application when I was appr. 12-14 years old (and also was my fi
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Nevertheless, pull-requests and issues are welcome. 
+
+## There might be some files, which are not BY ME (e.g. music, a copy of a facebook-profile page, etc.)
+I just let them there to not entirely break the application. But if anyone wants me to remove those files I will do it, just write me an e-mail (kevin.riedl.privat@gmail.com) or post an issue. Also a pull-request is fine. Thank you in advance and sorry for the inconvenience. 
