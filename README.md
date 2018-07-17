@@ -13,7 +13,7 @@ This batch application helps you to
 - and much more etc. 
 
 ## Contribution and info
-As I wrote this application when I was appr. 12-14 years old (and also was my first "scripting/programming language"), some things might not work anymore or might be written inefficient. The application is still in use for small things (e.g. when I want to restart my printing queue ^^), but is NOT maintained by me. 
+As I wrote this application when I was appr. 12-14 years old (and also was my first "scripting/programming language"), some things might not work anymore, might be hardcoded (like paths) or might be written inefficient. The application is still in use for small things (e.g. when I want to restart my printing queue ^^), but is NOT maintained by me. 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Nevertheless, pull-requests and issues are welcome. 
