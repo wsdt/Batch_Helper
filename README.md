@@ -1,4 +1,4 @@
-# Batch_Helper [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/wsdt/Batch_Helper/blob/master/LICENSE)
+# Batch_Helper [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) [![GitHub license](https://img.shields.io/github/license/wsdt/Batch_Helper.svg)](https://github.com/wsdt/Batch_Helper/blob/master/LICENSE)
 This batch application helps you to 
 - manage homework
 - manage notes
