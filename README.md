@@ -12,6 +12,9 @@ This batch application helps you to
 - hacking "trick/game" -> simulates a noob hacking attack on an arbitrary website
 - and much more etc. 
 
+## How to get started
+Just start the "Smart Speed.bat" in the top directory.
+
 ## Contribution and info
 As I wrote this application when I was appr. 12-14 years old (and also was my first "scripting/programming language"), some things might not work anymore, might be hardcoded (like paths) or might be written inefficient. The application is still in use for small things (e.g. when I want to restart my printing queue ^^), but is NOT maintained by me. 
 
