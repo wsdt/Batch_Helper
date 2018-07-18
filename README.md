@@ -16,7 +16,7 @@ This batch application (only available in German) helps you to
 Just start the "Smart Speed.bat" in the top directory.
 
 ## Contribution and info
-As I wrote this application when I was appr. 12-14 years old (and also was my first "scripting/programming language"), some things might not work anymore, might be hardcoded (like paths) or might be written inefficient. The application is still in use for small things (e.g. when I want to restart my printing queue ^^), but is NOT maintained by me. 
+As I wrote this application when I was appr. 12-14 years old (and also was my first "scripting/programming language" which I always programmed in the normal pre-installed Windows Texteditor), some things might not work anymore, might be hardcoded (like paths) or might be written inefficient. The application is still in use for small things (e.g. when I want to restart my printing queue ^^), but is NOT maintained by me. 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Nevertheless, pull-requests and issues are welcome. 
